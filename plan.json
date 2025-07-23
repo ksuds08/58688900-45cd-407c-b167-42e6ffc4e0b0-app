@@ -1,0 +1,21 @@
+{
+  "productName": "ResumeGenius AI",
+  "description": "An AI-powered platform that creates personalized resume templates optimized for specific industries and job roles.",
+  "features": [
+    "AI-generated resume templates",
+    "Customization for various industries and job roles",
+    "Optimal layout and keyword suggestions",
+    "Content enhancements based on career goals and hiring trends"
+  ],
+  "targetAudience": "Job seekers looking to tailor their resumes for specific industries and roles",
+  "branding": {
+    "tagline": "Craft Your Future, One Resume at a Time",
+    "colors": [
+      "#4A90E2",
+      "#50E3C2",
+      "#F5A623",
+      "#7B7B7B"
+    ],
+    "logoDescription": "Sleek, modern typeface with 'RG' intertwined, 'G' designed as a paperclip symbolizing organization and professionalism"
+  }
+}
